@@ -1,0 +1,14 @@
+SMAP
+add_005fitem_jsp.java
+JSP
+*S JSP
+*F
++ 0 add_item.jsp
+web/add_item.jsp
+*L
+1,19:47
+20:66,10
+21:76
+22,16:78
+37,162:94
+*E
